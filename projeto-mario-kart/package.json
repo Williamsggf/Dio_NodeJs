@@ -1,0 +1,17 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "Projeto Dio 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "William Soares Gonçalves",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
