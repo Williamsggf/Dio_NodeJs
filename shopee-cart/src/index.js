@@ -1,3 +1,4 @@
+//index.js
 import * as cartService from "./services/cart.js";
 import { showMenu } from "./services/menu.js";
 

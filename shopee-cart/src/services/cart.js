@@ -1,7 +1,5 @@
 //cart
 import createItem from "./item.js";
-import { showMenu } from "./menu.js";
-import readline from "readline";
 
 export async function addItem(userCart, item) {
   const created = await createItem(item.nome, item.price, item.quantity);
@@ -9,10 +7,6 @@ export async function addItem(userCart, item) {
     id: item.id,
     ...created,
   });
-}
-export async function Menu(userCart) {
-  console.log("Welcome to Shopee Cart!");
-  showMenu(userCart);
 }
 
 export async function deleteItem(myCart, id) {
@@ -28,6 +22,22 @@ export async function deleteItem(myCart, id) {
 
 export async function removeItem(myCart) {
   myCart.length = 0;
+}
+
+export async function editItem(myCart, id, newQuantity) {
+  const item = myCart.find((item) => item.id === id);
+
+  if (!item) {
+    console.log("❌ Produto não encontrado.");
+    return;
+  }
+
+  if (newQuantity === 0) {
+    await deleteItem(myCart, id);
+  } else {
+    item.quantity = newQuantity;
+    item.subtotal = item.price * newQuantity;
+  }
 }
 
 export function calculateTotal(userCart) {
