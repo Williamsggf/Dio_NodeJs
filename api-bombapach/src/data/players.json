@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Kaio Jorge",
+    "Clube": "Cruzeiro",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 86,
+      "Pace": 88,
+      "Shooting": 84,
+      "Passing": 70,
+      "Dribbling": 83,
+      "Defending": 30,
+      "Physicality": 75
+    }
+  },
+  {
+    "id": 2,
+    "name": "Giorgian de Arrascaeta",
+    "Clube": "Flamengo",
+    "position": "Attacking Midfielder",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 75,
+      "Shooting": 85,
+      "Passing": 88,
+      "Dribbling": 89,
+      "Defending": 50,
+      "Physicality": 70
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pablo Vegetti",
+    "Clube": "Vasco da Gama",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 75,
+      "Shooting": 86,
+      "Passing": 70,
+      "Dribbling": 76,
+      "Defending": 40,
+      "Physicality": 78
+    }
+  },
+  {
+    "id": 4,
+    "name": "Reinaldo",
+    "Clube": "Mirassol",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 82,
+      "Shooting": 85,
+      "Passing": 68,
+      "Dribbling": 80,
+      "Defending": 38,
+      "Physicality": 74
+    }
+  },
+  {
+    "id": 5,
+    "name": "Pedro Raul",
+    "Clube": "Ceará",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 78,
+      "Shooting": 85,
+      "Passing": 70,
+      "Dribbling": 75,
+      "Defending": 42,
+      "Physicality": 80
+    }
+  },
+  {
+    "id": 6,
+    "name": "Estêvão",
+    "Clube": "Palmeiras",
+    "position": "Right Winger",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 91,
+      "Shooting": 82,
+      "Passing": 77,
+      "Dribbling": 89,
+      "Defending": 35,
+      "Physicality": 70
+    }
+  },
+  {
+    "id": 7,
+    "name": "Raphael Veiga",
+    "Clube": "Palmeiras",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 75,
+      "Shooting": 84,
+      "Passing": 85,
+      "Dribbling": 82,
+      "Defending": 58,
+      "Physicality": 68
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pedro",
+    "Clube": "Flamengo",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 86,
+      "Pace": 74,
+      "Shooting": 88,
+      "Passing": 72,
+      "Dribbling": 79,
+      "Defending": 38,
+      "Physicality": 83
+    }
+  },
+  {
+    "id": 9,
+    "name": "Gerson",
+    "Clube": "Flamengo",
+    "position": "Central Midfielder",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 78,
+      "Shooting": 76,
+      "Passing": 84,
+      "Dribbling": 81,
+      "Defending": 75,
+      "Physicality": 80
+    }
+  },
+  {
+    "id": 10,
+    "name": "Paulinho",
+    "Clube": "Atlético Mineiro",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 84,
+      "Shooting": 85,
+      "Passing": 70,
+      "Dribbling": 78,
+      "Defending": 50,
+      "Physicality": 76
+    }
+  },
+  {
+    "id": 11,
+    "name": "Jhon Arias",
+    "Clube": "Fluminense",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 85,
+      "Shooting": 78,
+      "Passing": 80,
+      "Dribbling": 85,
+      "Defending": 55,
+      "Physicality": 72
+    }
+  },
+  {
+    "id": 12,
+    "name": "Igor Jesus",
+    "Clube": "Botafogo",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 80,
+      "Shooting": 84,
+      "Passing": 72,
+      "Dribbling": 76,
+      "Defending": 45,
+      "Physicality": 78
+    }
+  },
+  {
+    "id": 13,
+    "name": "Alan Patrick",
+    "Clube": "Internacional",
+    "position": "Attacking Midfielder",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 72,
+      "Shooting": 80,
+      "Passing": 84,
+      "Dribbling": 83,
+      "Defending": 50,
+      "Physicality": 70
+    }
+  },
+  {
+    "id": 14,
+    "name": "Luiz Henrique",
+    "Clube": "Botafogo",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 88,
+      "Shooting": 77,
+      "Passing": 76,
+      "Dribbling": 84,
+      "Defending": 45,
+      "Physicality": 72
+    }
+  },
+  {
+    "id": 15,
+    "name": "Vitor Roque",
+    "Clube": "Athletico-PR",
+    "position": "Striker",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 90,
+      "Shooting": 84,
+      "Passing": 72,
+      "Dribbling": 80,
+      "Defending": 40,
+      "Physicality": 77
+    }
+  },
+  {
+    "id": 16,
+    "name": "Matheus Pereira",
+    "Clube": "Cruzeiro",
+    "position": "Attacking Midfielder",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 76,
+      "Shooting": 78,
+      "Passing": 84,
+      "Dribbling": 82,
+      "Defending": 55,
+      "Physicality": 70
+    }
+  },
+  {
+    "id": 17,
+    "name": "Lucas Evangelista",
+    "Clube": "Red Bull Bragantino",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 82,
+      "Pace": 74,
+      "Shooting": 76,
+      "Passing": 80,
+      "Dribbling": 78,
+      "Defending": 68,
+      "Physicality": 72
+    }
+  },
+  {
+    "id": 18,
+    "name": "Marcos Leonardo",
+    "Clube": "Santos",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 83,
+      "Shooting": 85,
+      "Passing": 70,
+      "Dribbling": 79,
+      "Defending": 40,
+      "Physicality": 75
+    }
+  },
+  {
+    "id": 19,
+    "name": "Yuri Alberto",
+    "Clube": "Corinthians",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 82,
+      "Shooting": 83,
+      "Passing": 68,
+      "Dribbling": 78,
+      "Defending": 40,
+      "Physicality": 74
+    }
+  },
+  {
+    "id": 20,
+    "name": "André",
+    "Clube": "Fluminense",
+    "position": "Defensive Midfielder",
+    "statistics": {
+      "Overall": 84,
+      "Pace": 76,
+      "Shooting": 70,
+      "Passing": 78,
+      "Dribbling": 80,
+      "Defending": 82,
+      "Physicality": 79
+    }
+  },
+  {
+    "id": 21,
+    "name": "João Ricardo",
+    "Clube": "Fortaleza",
+    "position": "Goalkeeper",
+    "statistics": {
+      "Overall": 83,
+      "Pace": 60,
+      "Shooting": 40,
+      "Passing": 70,
+      "Dribbling": 55,
+      "Defending": 35,
+      "Physicality": 82
+    }
+  }
+]
