@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nome": "Cruzeiro",
+    "statistic": {
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "gols_pro": 0,
+      "gols_contra": 0,
+      "saldo_gols": 0,
+      "pontos": 0
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Flamengo",
+    "statistic": {
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "gols_pro": 0,
+      "gols_contra": 0,
+      "saldo_gols": 0,
+      "pontos": 0
+    }
+  }
+]
